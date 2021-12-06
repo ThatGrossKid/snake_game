@@ -1,0 +1,1 @@
+internal class SquareCoords(var x: Int, var y: Int)
